@@ -1,5 +1,7 @@
 # GMGame_Totem
 
+С версии 1.21.4 для работы мода требуется [Variants-CIT](https://modrinth.com/mod/variants-cit), так-как [CIT Resewn](https://modrinth.com/mod/cit-resewn) видимо заброшен. Так же убрана поддержка [OptiFine](https://www.optifine.net/home)
+
 Ресурспак **GMGame_Totem** предназначен для изменения текстур тотемов бессмертия.
 
 Для работы текстурпака необходимо установить [OptiFine](https://www.optifine.net/home) или мод [CIT Resewn](https://modrinth.com/mod/cit-resewn)( для Sodium), скопировать в каталог resourcepacks архив текстурпака не распаковывая, затем выбрать в игре «Настройки...» — «Наборы ресурсов...» — перетащить текстурпак из «Доступные» в «Выбранные» — «Готово».
